@@ -1,5 +1,9 @@
 // Import your entities here and put in below array.
 
-export const Entities = []
+import { Item } from "./Item";
+
+export const Entities = [
+  Item
+]
 
 export default Entities;
